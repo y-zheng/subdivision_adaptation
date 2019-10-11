@@ -1,6 +1,0 @@
-R simulations:
-
-m20G
-m20L
-m2G
-m0.2G
